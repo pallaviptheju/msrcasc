@@ -41,7 +41,7 @@
     background-color: black;
 }
 .car{
-    position: absolute;
+    position: relative;
     bottom: 10px;
     animation: moveCar 5s linear infinite;
 }
